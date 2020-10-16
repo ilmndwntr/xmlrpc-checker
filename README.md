@@ -1,5 +1,5 @@
 # XMLRPC Checker Super Fast
- Tools untuk mempermudah mendapatkan website bercms WordPress
+ Tools untuk mempermudah mendapatkan website bercms WordPress,
  Sudah saya tambahkan script Auto Remove Duplicate
  
 ![Screenshot_23](https://user-images.githubusercontent.com/44839852/96258658-e8f5fb80-0fee-11eb-9c51-17d90dce83f8.jpg)
